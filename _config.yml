@@ -1,5 +1,9 @@
 # Base configs
+<<<<<<< HEAD
 baseurl: ""
+=======
+# baseurl: "https://photography.rampatra.com"
+>>>>>>> c39042af7ad7be4f9b09a6ccf92d1d98ea72c9e7
 #baseurl: "" # Comment the above line and uncomment this to test the website locally
 image_fulls_loc: "/images/fulls"
 image_thumbs_loc: "/images/thumbs"
@@ -14,9 +18,14 @@ header:
  subtitle: "by Jorden Sanchez"
 footer:
  name: "Hey there, my name is Jorden"
+<<<<<<< HEAD
  bio: "I am a developer"
  github: ""
 web_design: ""
+=======
+ bio: " Love making teeny tiny apps solving tiny problems in life and now learning photography."
+
+>>>>>>> c39042af7ad7be4f9b09a6ccf92d1d98ea72c9e7
 # Configure which exif data to display
 # Tag is the actual exif tag, icon is a fontawesome icon. Use JSON notation without line breaks
 exif: '[{"tag": "Model", "icon": "camera-retro"}, {"tag": "FNumber", "icon": "dot-circle-o"}, {"tag": "ExposureTime", "icon": "clock-o"}, {"tag": "ISOSpeedRatings", "icon": "info-circle"}]'
