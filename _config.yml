@@ -1,5 +1,5 @@
 # Base configs
-baseurl: "https://jordensan.github.io/photos/"
+#baseurl: "https://jordensan.github.io/photos/"
 #baseurl: "" # Comment the above line and uncomment this to test the website locally
 image_fulls_loc: "/images/fulls"
 image_thumbs_loc: "/images/thumbs"
@@ -14,7 +14,7 @@ header:
  subtitle: "by Jorden Sanchez"
 footer:
  name: "Hey there, my name is Jorden"
- bio: "I am a developer"
+ bio: "These are my photos"
  github: ""
 web_design: ""
 # Configure which exif data to display
@@ -24,5 +24,5 @@ social_urls:
   twitter: ""
   instagram: ""
   dribbble: ""
-  linkedin: ""
-  github: ""
+  linkedin: "https://www.linkedin.com/in/jorden-sanchez-a70310164?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BK3T16gPyQxieH5myERqgCw%3D%3D"
+  github: "https://github.com/Jordensan"
