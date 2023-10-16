@@ -1,11 +1,11 @@
-current directory: /Users/jordensanchez/photography/vendor/bundle/ruby/2.6.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
-/Users/jordensanchez/.rbenv/versions/2.6.0/bin/ruby -I /Users/jordensanchez/.rbenv/versions/2.6.0/lib/ruby/2.6.0 -r ./siteconf20230911-64628-htb72c.rb extconf.rb
+current directory: /Users/jordensanchez/Desktop/clonePhoto/photography/vendor/bundle/ruby/2.6.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+/Users/jordensanchez/.rbenv/versions/2.6.0/bin/ruby -I /Users/jordensanchez/.rbenv/versions/2.6.0/lib/ruby/2.6.0 -r ./siteconf20231016-15678-6hytlz.rb extconf.rb
 creating Makefile
 
-current directory: /Users/jordensanchez/photography/vendor/bundle/ruby/2.6.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+current directory: /Users/jordensanchez/Desktop/clonePhoto/photography/vendor/bundle/ruby/2.6.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
 make "DESTDIR=" clean
 
-current directory: /Users/jordensanchez/photography/vendor/bundle/ruby/2.6.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+current directory: /Users/jordensanchez/Desktop/clonePhoto/photography/vendor/bundle/ruby/2.6.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
 make "DESTDIR="
 compiling ruby_http_parser.c
 ruby_http_parser.c:323:22: warning: '(' and '{' tokens introducing statement expression appear in different macro expansion contexts [-Wcompound-token-split-by-macro]
@@ -465,6 +465,6 @@ ruby_http_parser.c:528:19: note: ')' token is here
 compiling ryah_http_parser.c
 linking shared-object ruby_http_parser.bundle
 
-current directory: /Users/jordensanchez/photography/vendor/bundle/ruby/2.6.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+current directory: /Users/jordensanchez/Desktop/clonePhoto/photography/vendor/bundle/ruby/2.6.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
 make "DESTDIR=" install
-/usr/local/bin/ginstall -c -m 0755 ruby_http_parser.bundle ./.gem.20230911-64628-875kuq
+/usr/local/bin/ginstall -c -m 0755 ruby_http_parser.bundle ./.gem.20231016-15678-1stki5m
