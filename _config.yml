@@ -1,5 +1,9 @@
 # Base configs
+<<<<<<< HEAD
 #baseurl: "https://jordensan.github.io/photos/"
+=======
+#baseurl: ""
+>>>>>>> 779b33d610d98eb69bfa06134a07a29082d2823c
 #baseurl: "" # Comment the above line and uncomment this to test the website locally
 image_fulls_loc: "/images/fulls"
 image_thumbs_loc: "/images/thumbs"
